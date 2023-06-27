@@ -278,6 +278,7 @@ nav {
    justify-content: space-between;
    margin-top: 136px;
    padding: 0 136.1px;
+   gap: 6rem;
 }
 
 .third_section .left {
@@ -342,10 +343,11 @@ nav {
 .fourth_section{
     margin-top: 11.875rem;
     display: flex;
-    padding: 42px 176px 10.75rem 176px;
+    /* padding: 42px 176px 112px 176px; */
     flex-direction: column;
     align-items: center;
     gap: 68px;
+    margin-bottom: 7rem;
 }
 
 .fourth_section .first{
@@ -392,7 +394,7 @@ nav {
 
 .fourth_section .second .card1  {
     display: inline-flex;
-    padding: 1.5rem 98px 45px 87px;
+    padding: 24px 98px 45px 87px;
     flex-direction: column;
     align-items: flex-start;
     gap: 34px;
@@ -822,7 +824,7 @@ form div {
     display: flex;
     padding: 95px 203px 82px;
     justify-content: space-around;
-    gap: 2.938rem;
+    gap: 3.938rem;
     
 }
 
