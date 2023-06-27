@@ -315,10 +315,12 @@ nav {
 .third_section .right .up {
     display: flex;
     margin-bottom: 64px;
+    gap: 1rem;
 }
 
 .third_section .right .down {
     display: flex;
+    gap: 1rem;
 }
 
 .third_section .right h2 {
@@ -825,6 +827,8 @@ form div {
     padding: 95px 203px 82px;
     justify-content: space-around;
     gap: 3.938rem;
+    max-width: 1440px;
+    margin: 0 auto;
     
 }
 
@@ -877,11 +881,11 @@ form div {
 }
 
 .features {
-    margin-left: 16.4rem;
+    margin-left: 6.3rem;
 }
 
 .legal {
-    margin-left: 15rem;
+    margin-left: 5.2rem;
 }
 
 .footer-last {
